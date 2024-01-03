@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm NELLORE PAVANKUMAR</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
+<h3 align="center">A passionate Web Development from India</h3>
 <img align="right"src="https://img.freepik.com/premium-vector/boy-coding-designing-with-pc-illustration_418302-2378.jpg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumar8278&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumar8278" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **POWER BI,SQL,EXCEL PYTHON**
+- 💬 Ask me about ** Html,CSS,JAVA,SQL,EXCEL PYTHON**
 
-- 📫 How to reach me **pavankumar42518@gmail.com**
+- 📫 How to reach me **pavanellore8278@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
